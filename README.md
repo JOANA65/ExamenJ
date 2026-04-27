@@ -277,3 +277,6 @@ SQLite fue seleccionado debido a que:
 ```bash
 git clone <TU_REPOSITORIO>
 cd api-flask-examen
+
+## Última actualización
+Se realizaron commits finales para evidenciar el desarrollo del proyecto.
